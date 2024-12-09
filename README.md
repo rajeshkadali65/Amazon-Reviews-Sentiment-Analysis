@@ -1,1 +1,2 @@
 # Amazon-Reviews-Sentiment-Analysis
+AmazonReviewSentimentAnalyzer is a Python-based project that leverages natural language processing (NLP) techniques to analyze sentiments in Amazon product reviews. Given a product URL, it evaluates whether the overall sentiment of customer feedback is positive, neutral, or negative. The tool also includes visualizations to present the sentiment analysis results clearly and intuitively.
